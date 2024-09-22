@@ -1,4 +1,4 @@
-Hadi Keep
+
 Hadi Keep is a simple React-based Todo List application that allows users to record and manage their creative thoughts and tasks. The application utilizes local storage to ensure that your todos persist even after refreshing the page or closing the browser.
 
 Features
